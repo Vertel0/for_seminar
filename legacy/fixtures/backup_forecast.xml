@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<forecast provider="backup-meteo" version="1">
+  <obs station="SPB001" time="2026-06-20T06:00:00"><t unit="F">60.8</t><w unit="mph">6.711</w><p unit="inHg">29.92</p></obs>
+  <obs station="SPB001" time="2026-06-20T12:00:00"><t unit="F">71.6</t><w unit="mph">8.948</w><p unit="inHg">29.85</p></obs>
+  <obs station="NSK001" time="2026-06-20T06:00:00"><t unit="F">53.6</t><w unit="mph">11.185</w><p unit="inHg">29.80</p></obs>
+</forecast>
